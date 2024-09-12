@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col">
             <img 
-            src="https://images.unsplash.com/photo-1523381294911-8d3cead13475?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGdhcm1lbnRzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=600&q=60" 
+            src="https://ik.imagekit.io/softodesign/23.jpg?updatedAt=1725811558565" 
             class="shadow-lg img-fluid"
             alt="">
             <br>
@@ -27,7 +27,7 @@
             <br>
             <h3>Product.</h3>
             <p class="tex-muted">
-                K&F is a well-established and trusted clothing manufacturer in Bangladesh. We specialize in producing quality garments, stylish dresses and tops for helping women to make more fashionable outfits. All our products are made from the finest fabrics soakes "Creating Quality Fabrics"
+                K&F is a well-established and trusted clothing manufacturer in Bangladesh. We specialize in producing quality garments, stylish dresses and tops. All our products are made from the finest fabrics soakes "Creating Quality Fabrics"
             </p>
             <a href="/about" class="btn btn-outline-primary">
                 Learn More
@@ -37,7 +37,7 @@
             <br>
             <br>
             <img 
-            src="https://images.unsplash.com/photo-1613076321656-23dcdd3aea92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fHRleHRpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60" 
+            src="https://ik.imagekit.io/softodesign/25.jpg?updatedAt=1725811632535" 
             class="shadow-lg img-fluid"
             alt="">
         </div>
@@ -46,27 +46,6 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-
-<div class="lol">
-<div class="container text-center">
-<br>
-<br>
-<br>
-<br>
-<br>
-<h1 class="bg-primary bg-gradient text-white rounded" >Check Out Our Products.</h1>
-<a href="/products" class="btn btn-secondary btn-lg" >View Our Products</a>
-<br>
-<br>
-<br>
-<br>
-
-</div>
-</div>
-
 
 
 <style>
@@ -74,10 +53,5 @@
         border-radius: 13px;
         /* height: 100%; */
         /* width: 50%; */
-    }
-    .lol {
-        background-image: url("https://images.unsplash.com/photo-1589912187345-e6f884f958af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dGV4dGlsZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=600&q=60");
-        background-repeat: no-repeat;
-        background-size: cover;
     }
 </style>

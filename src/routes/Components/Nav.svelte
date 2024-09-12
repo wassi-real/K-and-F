@@ -28,26 +28,26 @@
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
+              <a class="nav-link fw-bold" href="/">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/about">About Us</a>
+              <a class="nav-link fw-bold" aria-current="page" href="/about">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/service">Services</a>
+              <a class="nav-link fw-bold" href="/products">Our Products</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/products">Our Products</a>
+              <a class="nav-link fw-bold" href="/gallery">View Gallery</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/contact">Contact Us</a>
+              <a class="nav-link fw-bold" href="/contact">Contact Us</a>
             </li>
           </ul>
           <br>
           <br>
-          <!-- <p class="text-muted mt-5 text-center">
-            Made With <b class="text-primary"> SkyPil. </b>
-          </p> -->
+          <p class="text-muted mt-5 text-center">
+            <i class="bi bi-envelope-fill"></i> <a href="mailto:hayat@knfbd.com">hayat@knfbd.com</a>
+          </p>
         </div>
       </div>
     </div>

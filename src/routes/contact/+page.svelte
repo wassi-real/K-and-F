@@ -10,7 +10,7 @@ import Hero from "../Components/Hero.svelte";
 <br>
 <br>
 <br>
-<div class="container mt-5">
+<div class="container mt-5 ">
     <div class="row">
         <div class="col">
             <h3>Want To Work With Us Or Talk ?</h3>
@@ -19,12 +19,21 @@ import Hero from "../Components/Hero.svelte";
             </p>
         </div>
         <div class="col">
-           <h4> Tell : +880 1713082020 </h4> <br>
+           <h4> Tell : +880 1973082020 </h4> <br>
             <h4> <a href="mailto:hayat@knfbd.com" class="btn btn-outline-primary"> Email : hayat@knfbd.com </a></h4>
         </div>
     </div>
 </div>
 <br>
+<br>
+<br>
+<div class="border border-1"></div>
+<br>
+<br>
+<br>
+<div class="container">
+    <h3>Our Contact Form</h3>
+</div>
 <br>
 <br>
 <div class="container">

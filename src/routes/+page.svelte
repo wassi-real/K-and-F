@@ -1,6 +1,12 @@
 <script>
-	import Lead from "./Components/Lead.svelte";
+	import Client from "./Components/Client.svelte";
+	import Cont from "./Components/Cont.svelte";
+	import End from "./Components/End.svelte";
+	import Feat from "./Components/Feat.svelte";
+import Lead from "./Components/Lead.svelte";
 	import Lead2 from "./Components/Lead2.svelte";
+	import Lol from "./Components/Lol.svelte";
+	import Slide from "./Components/Slide.svelte";
 
 
 </script>
@@ -12,7 +18,7 @@
     <br>
     <br>
     <div class="container mt-5">
-        <h1 class="text-white"><b>K&F <br> DRESS BD  </b></h1>
+        <h1 class="text-white fw-bold"><b>K&F <br> DRESS BD  </b></h1>
         <br>
         <p class="text-white fs-4">We Turn Your Clothing Idea Into Reality</p>
         <a href="/contact"><button class="btn btn-primary btn-lg">Talk To Us</button></a>
@@ -24,8 +30,6 @@
     <br>
     <br>
 </div>
-<br>
-<br>
 <!-- <div>
             <img 
         src="https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" 
@@ -35,29 +39,28 @@
         >
       
 </div> -->
-
-
+<br>
+<br>
 <br>
 <Lead/>
 <Lead2/>
-
-<div class="bg-primary">
-    <br>
-    <br>
-    <br>
-    <div class="container text-white">
-        <h4>Contact Us For More</h4>
-        <p>
-           Feel free to contact us at about any topic your curious about and we are here to help.
-        </p>
-        <a href="/contact" class="text-white">
-            View Info
-        </a>
-    </div>
-    <br>
-    <br>
-    <br>
-</div>
+<br>
+<br>
+<br>
+<Feat/>
+<Slide/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<Cont/>
+<br>
+<br>
+<br>
+<Client/>
+<Lol/>
+<End/>
 
 <style>
     h1 {

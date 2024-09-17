@@ -1,6 +1,6 @@
 
 <form action="https://formpost.app/hayat@knfbd.com" method="POST" id="contactForm">
-  <input type="hidden" name="fp_redirect" value="http://localhost:5173/thanks">
+  <input type="hidden" name="fp_redirect" value="https://www.knfbd.com/thanks">
   
   <div class="mb-4">
     <label for="fullName" class="form-label">Your Full Name</label>

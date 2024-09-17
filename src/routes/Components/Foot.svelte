@@ -51,7 +51,7 @@
 
     <br>
     <p class="text-muted text-center mb-0">© 2024 Copyright: K&F Dress Bd. All rights reserved</p>
-    <p class="text-muted text-center pl mb-0">Web Servers Are Maintained From Dhaka, Bangladesh with 💖</p>
+    <p class="text-muted text-center pl mb-0">Website Developed & Managed by <a class="fw-bold" href="https://createflow.softodesign.com">CreateFlow</a> </p>
     <br>
   </div>
 </footer>

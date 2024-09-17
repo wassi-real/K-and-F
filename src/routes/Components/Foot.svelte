@@ -34,9 +34,9 @@
           <a class="navbar-brand" href="/">
             <h3 class="text-muted">K&F DRESS BD</h3>
             <p class="fs-6">Leaders in apparel manufacturing</p>
+          </a>
             <p class="fs-7"><b>REG NUM:</b> DEP OF TEXTILE (DOT/BH/IMP)-L-1704.</p>
             <p class="fs-7"><b>TRAD/DNCC:</b> 148235/2022</p>
-          </a>
         </div>
         <div class="col-12 col-md-6">
           <nav class="nav flex-column flex-md-row fs-6">

@@ -9,7 +9,7 @@ import Hero from "../Components/Hero.svelte";
 <br>
 <br>
 <div class="container">
-<img src="https://ik.imagekit.io/softodesign/K&F%20Assets/5325.jpg?updatedAt=1726074667203" alt="hall" class="img-fluid border border-4">
+<img src="https://ik.imagekit.io/softodesign/K&F%20Assets/bg-knf.jpg?updatedAt=1726758512012" alt="hall" class="img-fluid border border-4">
 </div>
 <br>
 <br>

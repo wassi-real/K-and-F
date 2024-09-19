@@ -32,7 +32,7 @@
 				<div class="col align-self-center">
 					<div class="lc-block">
 						<div>
-							<p class="fw-semibold ls-n1 display-5">35+ Clients</p>
+							<p class="fw-semibold ls-n1 display-5">22+ Clients</p>
 							<p class="text-slate-500">They are happy, we are happy</p>
 						</div>
 					</div>
